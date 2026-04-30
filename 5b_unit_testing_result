@@ -1,0 +1,6 @@
+theia@theiadocker-saschapetrov:/home/project/final_project/oaqjp-final-project-emb-ai$ python3 test_emotion_detection.py
+PASS: 'I am glad this happened' → joy
+PASS: 'I am really mad about this' → anger
+PASS: 'I feel disgusted just hearing about this' → disgust
+PASS: 'I am so sad about this' → sadness
+PASS: 'I am really afraid that this will happen' → fear
