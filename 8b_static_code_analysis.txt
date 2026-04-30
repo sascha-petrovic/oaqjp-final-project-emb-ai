@@ -1,0 +1,5 @@
+
+theia@theiadocker-saschapetrov:/home/project/final_project/oaqjp-final-project-emb-ai$ pylint server.ppylint server.py
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 9.23/10, +0.77)
